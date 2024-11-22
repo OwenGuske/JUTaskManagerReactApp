@@ -30,5 +30,5 @@ To run the JU Dolphins Task Manager locally, follow these simple steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-username>/ju-dolphins-task-manager.git
+   git clone [https://github.com/OwenGuske/JUTaskManagerReactApp.git]
    cd ju-dolphins-task-manager
