@@ -1,18 +1,17 @@
-# JU Dolphins Task Manager
+# JU Dolphins Task Manager Built Using React
 
 ## Description
-JU Dolphins Task Manager is a simple React application designed to help users manage tasks. Users can add tasks, view them in a list, and delete tasks as needed. The app is styled with a JU Dolphins-inspired green and gold theme.
+JU Dolphins Task Manager is a React-based application that allows users to manage tasks. Users can add tasks, view them in a list, and delete them. The app features a green and gold theme inspired by Jacksonville University (JU).
 
-As my time at **Jacksonville University (JU)** comes to an end as a **Finance Technology major**, this project reflects the coding and development skills I have gained this semester. Thanks to **Dr. Sinyagovskaya**, I have learned the fundamentals of programming and web development, including **HTML**, **JavaScript**, **CSS**, and **React**.
+This project reflects my growth as a Finance Technology major at JU, where I developed coding skills in **HTML**, **CSS**, **JavaScript**, and **React**. Special thanks to **Dr. Sinyagovskaya** for guiding me through these concepts this semester (Fall 2024).
 
 ---
 
 ## Features
-- Add new tasks.
-- View all added tasks in a dynamic list.
-- Delete tasks with a single click.
-- Styled with a JU Dolphins theme to reflect school pride.
-
+- Add new tasks using the input field and "Add Task" button.
+- View all tasks in a dynamic task list.
+- Delete tasks using the "Delete" button next to each task.
+- Styled with JU Dolphins colors (green and gold).
 ---
 
 ## What I Learned
@@ -26,9 +25,18 @@ This project allowed me to apply and strengthen my skills in:
 ---
 
 ## Installation Instructions
-To run the JU Dolphins Task Manager locally, follow these simple steps:
+Follow these steps to run the app on your local machine:
 
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/OwenGuske/JUTaskManagerReactApp.git]
    cd ju-dolphins-task-manager
+2. **Install Dependencies (in Terminal):**
+   ```bash
+   npm install
+3. **Start Dev Server (in Terminal):**
+   ```bash
+   npm start
+4. **View App (Open Browser):**
+   ```arduino
+   http://localhost:3000
